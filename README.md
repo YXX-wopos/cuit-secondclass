@@ -1,4 +1,5 @@
 # cuit-secondclass
+cuit二课签到签退
 已经打包成了exe文件，直接点开使用
 找到自己的token
 输入，然后选择你要查看的签到链接
